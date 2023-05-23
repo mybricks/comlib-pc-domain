@@ -4,6 +4,7 @@
   "fileId": "",
   "commitInfo": "update",
   "comAry": [
+    "./src/domain-crud/com.json"
   ],
   "externals": [
     {
