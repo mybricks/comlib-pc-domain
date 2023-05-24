@@ -23,6 +23,10 @@ export default {
     if (curSlot.id === 'queryContent') {
     }
 
+    if (curSlot.id === 'tableContent') {
+      childData.domainData = data;
+    }
+
     if (curSlot.id === 'editModalContent') {
       console.log(childData, curSlot);
     }
